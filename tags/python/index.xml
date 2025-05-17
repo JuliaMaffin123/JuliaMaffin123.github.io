@@ -134,5 +134,13 @@ data.head()
 </description>
     </item>
     
+    <item>
+      <title>Мини ЭЖД</title>
+      <link>https://example.com/project/e-journal/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/e-journal/</guid>
+      <description>&lt;p&gt;Совместный проект в рамках курса Яндекс Лицея. Упрощенный электронный журнал.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
